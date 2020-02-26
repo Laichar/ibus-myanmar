@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp mongol_bichig.db /usr/share/ibus-table/tables/
+cp mongol_bichig.svg /usr/share/ibus-table/icons/

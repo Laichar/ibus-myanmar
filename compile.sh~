@@ -1,0 +1,3 @@
+#!/bin/bash
+rm mongol_bichig.db
+ibus-table-createdb -n mongol_bichig.db -s mongol_bichig.txt
